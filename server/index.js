@@ -36,7 +36,7 @@ setupWebSocket(io);
 
 // Health Check
 app.get("/", (req, res) => {
-  res.send("CropConnect Server is running");
+  res.send("ApnaKisaan Server is running");
 });
 
 // Routes
